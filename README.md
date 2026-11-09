@@ -1,3 +1,5 @@
+# Google Gemini routes personal Drive files and emails to human annotators
+
 In 2023, Google launched Gemini Workspace extensions with an explicit promise: [personal content from Gmail, Docs, and Drive "is not seen by human reviewers"](https://blog.google/innovation-and-ai/products/our-responsible-approach-to-building-guardrails-for-generative-ai/).
 
 Google has quietly reversed this commitment. Under updated [Google Help Answer 16836988](https://support.google.com/gemini/answer/16836988) and in an October 16 edit to [their aforementioned 2023 blogpost](https://blog.google/innovation-and-ai/products/our-responsible-approach-to-building-guardrails-for-generative-ai/), Google explicitly confirms that connected Drive/email is routed into human review pipelines, with clear warnings that what reviewers see "may just be the email or file" and "don't connect your apps to Gemini Apps if they contain confidential information that you wouldn't want a reviewer to see."
