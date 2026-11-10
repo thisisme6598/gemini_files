@@ -1,6 +1,6 @@
 # Google Gemini routes personal Drive files and emails to human annotators
 
-***Clarification (Nov 10, 2026): Scope & Account Applicability***
+***Clarification (Nov 10, 2026): Scope & Account Applicability.***
 *This documentation and technical reproduction apply strictly to Consumer Google Accounts (personal @gmail.com accounts) governed by the standard Gemini Apps Privacy Notice, Gemini Apps Activity, and Google Help Answer 16836988. Google Workspace commercial accounts (Business, Enterprise, and Education) operate under separate Cloud Data Processing Addenda (DPA) that contractually exclude human review and external generative training by default.*
 
 
